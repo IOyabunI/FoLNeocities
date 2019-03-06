@@ -1,0 +1,19 @@
+/* CSS for Blog section */
+.blog {
+	padding: 10px;
+	padding-right: 8px;
+	padding-left: 8px;
+	font-size: 20px;
+	color: #FFFF75;
+	font-family:
+}
+
+.blog > p {
+	padding: 6px;
+	color: #FFFF75;
+}
+
+.blog > .paraTop {
+	padding-top: 15px;
+
+}

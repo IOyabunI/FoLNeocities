@@ -1,0 +1,14 @@
+/* CSS for Lain Poem */
+
+.poem {
+	white-space: pre;
+	padding-top: 5px;
+	margin: 0 auto;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	border: none;
+	background-color: hsl(200, 25%, 40%);
+	max-width: 350px;
+	text-align: center;
+	opacity: .6;
+}

@@ -1,0 +1,63 @@
+/* element selector styleshee for Friends of Lain */
+
+h1 {
+	width: 50% ;
+	padding: 10px 0px 0px 0px;
+	margin: auto;
+	color: #71FEF0;
+	font-family: Aldrich;
+	border-bottom: solid #70FF70;
+	text-align: center;
+	z-index: 1;
+}
+
+h2 {
+	padding: 10px 0px 0px 0px;
+	margin: 0 auto;
+	color: #71FEF0;
+	font-family: Aldrich;
+	text-align: center;
+	border-bottom: solid #70FF70;
+	width: 38%;
+	text-align: center;
+}
+
+h3 {
+	padding: 10px 0px 0px 0px;
+	margin: 0 auto;
+	color: #71FEF0;
+	font-family: Aldrich;
+	text-align: center;
+	width: 38%;
+	text-align: center;
+}
+
+p {
+	font-family: Didact Gothic;
+	color: #FFFF75;
+	padding: 4px;
+}
+
+/* footer p class */
+#footerp {
+	color: black;
+}
+
+/* Attributes & Selectors for Tables */
+
+th {
+	padding: 4px;
+	font-family: Didact Gothic;
+	color: #FFFF75;
+}
+
+td {
+	padding: 4px;
+	font-family: Didact Gothic;
+	color: #FFFF75;
+}
+
+table, th, td {
+	padding: 5px;
+	border: 1px solid black;
+}
