@@ -38,6 +38,11 @@ p {
 	padding: 4px;
 }
 
+li {
+	font-family: Didact Gothic;
+	color: #FFFF75;
+}
+
 /* footer p class */
 #footerp {
 	color: black;
